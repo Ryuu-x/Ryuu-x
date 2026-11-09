@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.webp" alt="Rias Gremory" width="720"></p>
+<p align="center"><img src="assets/banner.gif" alt="Rias Gremory" width="720"></p>
 
 <h1 align="center">Akarsh Jaiswal</h1>
 
