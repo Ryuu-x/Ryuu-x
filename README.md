@@ -1,14 +1,14 @@
-<p align="center"><img src="assets/gojo.png" alt="Satoru Gojo" width="720"></p>
+<p align="center"><img src="assets/banner.webp" alt="Rias Gremory" width="720"></p>
 
 <h1 align="center">Akarsh Jaiswal</h1>
 
 <p align="center">Full-time debugger, part-time developer.</p>
 
-<img align="right" hspace="16" src="assets/toji.webp" alt="Toji Zenin" width="220">
+<img align="right" hspace="16" src="assets/portrait.webp" alt="Rikka Takanashi" width="220">
 
 My latest public project is [MicWright](https://github.com/Ryuu-x/MicWright), a Windows app that cleans up your microphone as you talk: it removes background noise and evens out your volume, then passes the result to Discord, OBS, games or anything else listening. It runs entirely on your PC, and no audio goes online.
 
-## Projects
+### Projects
 
 **[MicWright](https://github.com/Ryuu-x/MicWright)** is real-time voice enhancement for Windows, with noise removal, auto level, EQ, a soundboard and A/B comparison against the raw mic. Written mainly in Rust.
 
@@ -18,7 +18,7 @@ My latest public project is [MicWright](https://github.com/Ryuu-x/MicWright), a 
 
 **[RealTime-Chat-App](https://github.com/Ryuu-x/RealTime-Chat-App)** is a real-time chat app in JavaScript.
 
-## Contributions
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
@@ -26,7 +26,7 @@ My latest public project is [MicWright](https://github.com/Ryuu-x/MicWright), a 
   <img alt="Contribution graph for the last year" src="assets/contributions-light.svg">
 </picture>
 
-## Recently
+### Recently
 
 <!-- recent:start -->
 | Repository | Language | Last push | Latest release |
