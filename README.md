@@ -31,12 +31,13 @@ My latest public project is [MicWright](https://github.com/Ryuu-x/MicWright), a 
 <!-- recent:start -->
 | Repository | Language | Last push | Latest release |
 | :-- | :-- | :-- | :-- |
-| [MicWright](https://github.com/Ryuu-x/MicWright) | Rust | 9 Nov 2026 | [v1.0.0](https://github.com/Ryuu-x/MicWright/releases/tag/v1.0.0) |
+| [MicWright](https://github.com/Ryuu-x/MicWright) | Rust | 14 Nov 2026 | [v1.0.0](https://github.com/Ryuu-x/MicWright/releases/tag/v1.0.0) |
 | [TicTacToe-Multiplayer](https://github.com/Ryuu-x/TicTacToe-Multiplayer) | TypeScript | 31 Jan 2026 | None |
 | [File-Sharing-App](https://github.com/Ryuu-x/File-Sharing-App) | JavaScript | 12 Jan 2026 | None |
 | [RealTime-Chat-App](https://github.com/Ryuu-x/RealTime-Chat-App) | JavaScript | 8 Oct 2025 | None |
 | [Basic-Spring-CRUD-app](https://github.com/Ryuu-x/Basic-Spring-CRUD-app) | Java | 7 Sep 2025 | None |
 
+- 14 Nov 2026: Released [v1.1.0-beta.1](https://github.com/Ryuu-x/MicWright/releases/tag/v1.1.0-beta.1) of [MicWright](https://github.com/Ryuu-x/MicWright)
 - 8 Nov 2026: Released [v1.0.0](https://github.com/Ryuu-x/MicWright/releases/tag/v1.0.0) of [MicWright](https://github.com/Ryuu-x/MicWright)
 - 6 Nov 2026: Made [MicWright](https://github.com/Ryuu-x/MicWright) public
 <!-- recent:end -->
